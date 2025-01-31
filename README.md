@@ -12,7 +12,3 @@
 - **Web**: MERN | PHP | Electron.js  
 - **Languages**: C++ | Java | JavaScript  
 - **Tools**: Git | Figma | Android Studio  
-
-📂 **GitHub Stats**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/YourUsername)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)](https://github.com/YourUsername)  
